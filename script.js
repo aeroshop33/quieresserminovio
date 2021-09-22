@@ -1,4 +1,4 @@
-var btnno = document.getElementById('btnno');
+var btnno = document.getElementById('aeroshop33');
 var btnyes = document.getElementById('btnyes');
 
 btnno.addEventListener('mouseenter', () => {
@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Ya sabia que querias ser mi novia');
+    alert('Ya sabia que querias ser mi novio');
 });
